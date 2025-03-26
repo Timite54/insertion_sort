@@ -27,8 +27,8 @@ On commence à partir du deuxième élément (indice 1) et on le compare avec le
 ## Insertion :
 Si l'élément à insérer (key) est plus petit que l'élément à sa gauche, on déplace les éléments vers la droite jusqu'à trouver la bonne position pour key.
 
-# Utilisation
+## Utilisation
 Le tableau à trier est défini dans le code. L'algorithme affichera le tableau trié dans la console.
 
-# Résultat :
+## Résultat :
 Le tableau est trié en place et renvoyé.
